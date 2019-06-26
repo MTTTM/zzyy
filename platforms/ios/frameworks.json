@@ -1,0 +1,6 @@
+{
+    "CFNetwork.framework": 1,
+    "Foundation.framework": 1,
+    "Security.framework": 2,
+    "SystemConfiguration.framework": 1
+}
